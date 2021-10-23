@@ -1,0 +1,9 @@
+.title {
+  font-size: 33px;
+  font-weight: bold;
+  margin: 0 0 15px 0;
+}
+
+.title > span {
+  color: orangered;
+}

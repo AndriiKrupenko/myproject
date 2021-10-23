@@ -1,0 +1,29 @@
+button {
+  background-color: white;
+  margin-bottom: 10px;
+  height: 70px;
+  width: 350px;
+  border: 0;
+  border-radius: 0 10px 10px 0;
+  cursor: pointer;
+  opacity: 0.7;
+}
+
+button:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  opacity: 1;
+}
+
+p {
+  text-align: left;
+  font-size: 18px;
+}
+
+span {
+  margin-right: 15px;
+}
+
+.numCourse {
+  margin-left: 15px;
+  font-weight: bold;
+}
